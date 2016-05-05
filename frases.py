@@ -1,0 +1,11 @@
+frase= str(input("Ingrse un frase: "))
+
+print (frase)
+mayus=frase.upper()
+print (mayus)
+minus=frase.lower()
+print (minus)
+cap=frase.capitalize()
+print (cap)
+rem=frase.replace(" ","")
+print (rem)
